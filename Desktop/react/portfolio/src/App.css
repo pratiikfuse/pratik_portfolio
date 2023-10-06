@@ -1,0 +1,29 @@
+.main-container{
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  background-color: #14131a;
+  padding-left: 25px;
+  box-sizing: border-box;
+  /* overflow-y:hidden;
+  overflow-y: scroll; */
+}
+
+.greenDot{
+  width: 15px;
+  height: 15px;
+  background-color: #2bd576;
+  border-radius: 50%;
+}
+
+#contact-me{
+  background-color:#2bd576;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
