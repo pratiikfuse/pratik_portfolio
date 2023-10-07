@@ -3,7 +3,7 @@ import React from "react";
 function Menu() {
   return (
     <div style={{ paddingLeft: "10px" }}>
-      <a href="" style={{ backgroundColor: "#1c1b23" }}>
+      <a href="#projects" style={{ backgroundColor: "#1c1b23" }}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
